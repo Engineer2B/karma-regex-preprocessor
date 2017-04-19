@@ -1,6 +1,6 @@
 {
     "name": "karma-regex-preprocessor",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Regular expression replace preprocessor for karma test runner",
     "main": "index.js",
     "scripts": {

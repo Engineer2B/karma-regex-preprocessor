@@ -1,4 +1,4 @@
 module.exports = {
-    'preprocessor:regex': ['type', require('./src/regex')]
+    'preprocessor:regex': ['factory', require('./src/regex')]
 };
 
