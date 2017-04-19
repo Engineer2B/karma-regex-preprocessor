@@ -12,7 +12,7 @@ Installation
 For the time being install from Github:
 
 ```sh
-$ npm install 'git+https://github.com/makern/karma-regex-preprocessor.git' --save-dev
+$ npm install 'git+https://github.com/Engineer2B/karma-regex-preprocessor.git' --save-dev
 ```
 
 
