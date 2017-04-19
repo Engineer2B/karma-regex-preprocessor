@@ -9,10 +9,10 @@ The main motivation for this was that I needed something to quickly simulate the
 Installation
 ------------
 
-For the time being install from Github:
+Install from npm:
 
-```sh
-$ npm install 'git+https://github.com/Engineer2B/karma-regex-preprocessor.git' --save-dev
+```powershell
+npm install karma-regex-preprocessor --save-dev
 ```
 
 
