@@ -20,4 +20,6 @@ var createRegexPreprocessor = function (config, helper, logger) {
 
 createRegexPreprocessor.$inject = ['config', 'helper', 'logger'];
 
-module.exports = createRegexPreprocessor;
+module.exports = {
+  'preprocessor:regex': ['type', createRegexPreprocessor]
+};
