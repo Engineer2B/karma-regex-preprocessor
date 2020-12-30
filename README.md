@@ -1,6 +1,8 @@
 karma-regex-preprocessor
 ========================
 
+![npm](https://img.shields.io/npm/dm/karma-regex-preprocessor)
+
 A karma preprocessor which does one or more regular expression substitutions on the file contents. It effectively just calls `String.prototype.replace()` with the parameters specified in the configuration.
 
 Historically, the main motivation for this was that https://github.com/mode needed something to quickly simulate the nginx [HttpSubModule](http://wiki.nginx.org/HttpSubModule).
